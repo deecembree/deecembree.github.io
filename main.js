@@ -31,7 +31,7 @@ let track_list = [
     name: "rennes : il est 19h",
     artist: "eeyora",
     image: "https://f4.bcbits.com/img/a0237395968_16.jpg",
-    path: "rennes : il est 19h.mp3"
+    path: "rennes.mp3"
   },
   {
     name: "metro rail city expansion",
